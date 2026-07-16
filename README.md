@@ -1,16 +1,25 @@
-## Hi there 👋
+# Gabriel Alcequiez 
 
-<!--
-**GabrielAlcequiez/GabrielAlcequiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Development Student** | Focused on building efficient, top-tier tech solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+- 🛠️ Currently working on: **Full Stack Web Development, Databases, Clean Architecture & Clean Code**
+- 💡 Key Interests: **ASP.NET Core, Database Design & Software Architecture**
+- 📬 How to reach me: **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-alcequiez32)**
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Languages:**
+`C#` `JavaScript` `HTML5` `CSS3` `SQL`
+
+**Frameworks & Tools:**
+`.NET` `Git` `GitHub` `VS Code` `PostgreSQL` / `SQL Server` `React` `Tailwind`
+
+
+### GitHub Stats
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielAlcequiez&theme=gruvbox)](https://git.io/streak-stats)
